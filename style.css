@@ -23,5 +23,49 @@
 .navbar-dark .navbar-nave .nav-link:hover {
   color: white;
 }
-
 /* end navigation */
+
+/* start landing page */
+.home-inner {
+  background-image: url("./assets/img/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 900px;
+}
+
+.caption {
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 38%;
+  z-index: 1;
+  color: black;
+  text-transform: uppercase;
+}
+
+.caption h1 {
+  font-size: 3.8rem;
+  font-weight: 700;
+  letter-spacing: 0.3rem;
+  text-shadow: 0.1rem 0.1rem 0.8rem black;
+  padding-bottom: 1rem;
+  color: #4995ba;
+}
+
+.caption h3 {
+  font-size: 3.8rem;
+  font-weight: 700;
+  letter-spacing: 0.3rem, normal;
+  text-shadow: 0.1rem 0.1rem 0.8rem black;
+  padding-bottom: 1rem;
+  color: #3fb2eb;
+}
+
+.btn-lg {
+  border-width: medium;
+  border-radius: 0;
+  padding-left: 0.6rem 1.3rem;
+  font-size: 1.1rem;
+}
+/* end landing page */
