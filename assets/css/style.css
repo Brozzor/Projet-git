@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700&display=swap");
 
-/* start navigation */
+/*  start navigation   */
 .navbar {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 0.9rem;
   letter-spacing: 0.1rem;
-  background: rgba(0, 0, 0, 0.5) !important;
+  background: rgba(0, 0, 0, 0.6) !important;
 }
 .navbar-brand img {
   height: 2rem;
@@ -19,11 +19,43 @@
   color: white;
   padding-top: 0.8rem;
 }
-.navbar-dark .navbar-nave .nav-link.active,
-.navbar-dark .navbar-nave .nav-link:hover {
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
   color: white;
 }
-/* end navigation */
+/* end of navigation */
+
+/* start footer */
+footer {
+  background-color: #40474e;
+  color: white;
+  padding: 2rem 0 0 2rem;
+  margin-top: 1rem;
+}
+footer img {
+  height: 5rem;
+  margin: 1.5rem 0;
+}
+footer a {
+  color: white;
+}
+footer a:hover {
+  color: orange;
+}
+footer svg.svg-inline--fa {
+  font-size: 1.6rem;
+}
+footer svg.svg-inline--fa {
+  font-size: 1.6rem;
+  margin-left: 1.2rem 0.5rem 0 0;
+}
+hr.socket {
+  width: 100%;
+}
+.hamada {
+  margin-left: 1rem;
+}
+/* end footer */
 
 /* start landing page */
 .home-inner {
