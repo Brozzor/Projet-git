@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700&display=swap");
+
+/* start navigation */
+.navbar {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  background: rgba(0, 0, 0, 0.5) !important;
+}
+.navbar-brand img {
+  height: 2rem;
+  border-radius: 4px;
+}
+.navbar-nav li {
+  padding-right: 0.7rem;
+}
+.navbar-dark .navbar-nave .nav-link {
+  color: white;
+  padding-top: 0.8rem;
+}
+.navbar-dark .navbar-nave .nav-link.active,
+.navbar-dark .navbar-nave .nav-link:hover {
+  color: white;
+}
+
+/* end navigation */
