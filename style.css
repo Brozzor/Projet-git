@@ -70,13 +70,22 @@
 }
 /* end landing page */
 
-/* start table */
+/* start DESCRIPTION */
 
-th {
-  color: #fff;
-}
-tr {
-  margin-top: 50%;
+.lead {
+  letter-spacing: 0.1rem;
+  padding: 2%;
+  color: black;
+  line-height: 3rem;
 }
 
-/* end table */
+.titledesc {
+  color: black;
+}
+
+.horiz {
+  width: 10%;
+  border: 1.5px solid #409999;
+}
+
+/* end DESCRIPTION */
