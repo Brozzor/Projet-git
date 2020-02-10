@@ -69,3 +69,14 @@
   font-size: 1.1rem;
 }
 /* end landing page */
+
+/* start table */
+
+th {
+  color: #fff;
+}
+tr {
+  margin-top: 50%;
+}
+
+/* end table */
