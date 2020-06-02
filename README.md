@@ -1,11 +1,11 @@
 # GIT PROJECT MCDONALD
 
-This is a test project was made by 2 students 
+This is a test project made by 2 students 
 
 # GETTING STARTED
  To get started with our project all you have to do is 
- Download project
- you should have an IDE to modify the files
+ Download the project
+ 
  
 # BUILT WITH
 - LOVE & PEACE - the ingredient that every one needs
